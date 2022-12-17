@@ -17,7 +17,7 @@
 - NumPy: for numerical operations
 - Pandas: for operations about data frames
 - Seaborn: for data visualization
-- Matplotlib for data visualization operations
+- Matplotlib: for data visualization operations
 
 # Plot types
 - seaborn countplot
