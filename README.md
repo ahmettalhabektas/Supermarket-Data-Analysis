@@ -15,7 +15,7 @@
 # Libraries
 **I used these libraries:**
 - NumPy: for numerical operations
-- Pandas: for operations about data frames
+- Pandas: for operations about dataframes
 - Seaborn: for data visualization
 - Matplotlib: for data visualization operations
 
